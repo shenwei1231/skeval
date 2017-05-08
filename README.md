@@ -10,6 +10,3 @@ Evaluate Skeleton Detection Results.
 ![](sk506_pr_curve.png)
 
 ![](WH-SYMMETRY_pr_curve.png)
-
-
-[Zhao Kai](http://zhaok.xyz)
